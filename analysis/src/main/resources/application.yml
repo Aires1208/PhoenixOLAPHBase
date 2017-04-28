@@ -1,0 +1,10 @@
+server:
+    port: 8086
+    contextPath:
+
+spring:
+    profiles:
+        active: dev
+
+    thymeleaf:
+        cache: false
