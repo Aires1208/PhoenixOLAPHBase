@@ -1,6 +1,5 @@
 FROM java:8-alpine
 
-MAINTAINER "qianguodong" <qian.guodong5@zte.com.cn>
 
 ENV APP_RUN /var/run/app
 
